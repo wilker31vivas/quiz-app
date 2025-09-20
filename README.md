@@ -21,7 +21,9 @@ La app se conecta a la [Open Trivia Database API](https://opentdb.com/api_config
 * 📊 Guardar y mostrar estadísticas de cada usuario (puntaje, rachas, etc.).
 * 🗑️ Eliminar cuenta y datos asociados.
 * ❓ Generar preguntas dinámicas usando la API de Open Trivia Database.
-* 🌐 Idioma: Inglés 🇺🇸.
+
+🌐 Idioma: 
+* Inglés 🇺🇸.
 
 🧑‍💻 Autor
 
